@@ -1,2 +1,2 @@
-# quotes-generative-classsification
-This project combines Generative AI and classification techniques to analyze and categorize text efficiently.
+# quotes-generative-using-GPT-project
+This project aims to generate quotes using LLM GPT model finetuned on hugging face english_quotes dataset
